@@ -2,13 +2,13 @@
 <testCase>
   <summary/>
   <steps>
-    <apiCall apiId="com.provar.plugins.bundled.apis.control.SetValues" name="SetValues" testItemId="1" title="Set Values: a">
+    <apiCall apiId="com.provar.plugins.bundled.apis.control.SetValues" name="SetValues" testItemId="1" title="Set Values: ab">
       <arguments>
         <argument id="values">
           <value class="valueList" mutable="Mutable">
             <namedValues mutable="Mutable">
               <namedValue name="valuePath">
-                <value class="value" valueClass="string">a</value>
+                <value class="value" valueClass="string">ab</value>
               </namedValue>
               <namedValue name="value">
                 <value class="value" valueClass="string">bsdfasdfsdfasdfassdfasdfs</value>
