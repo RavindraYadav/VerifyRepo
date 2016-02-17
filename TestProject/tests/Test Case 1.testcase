@@ -2,13 +2,21 @@
 <testCase>
   <summary/>
   <steps>
+<<<<<<< HEAD
+    <apiCall apiId="com.provar.plugins.bundled.apis.control.SetValues" name="SetValues" testItemId="1" title="Set Values: ab">
+=======
     <apiCall apiId="com.provar.plugins.bundled.apis.control.SetValues" name="SetValues" testItemId="1" title="Set Values: abcc">
+>>>>>>> refs/remotes/origin/Ravi
       <arguments>
         <argument id="values">
           <value class="valueList" mutable="Mutable">
             <namedValues mutable="Mutable">
               <namedValue name="valuePath">
+<<<<<<< HEAD
+                <value class="value" valueClass="string">ab</value>
+=======
                 <value class="value" valueClass="string">abcc</value>
+>>>>>>> refs/remotes/origin/Ravi
               </namedValue>
               <namedValue name="value">
                 <value class="value" valueClass="string">bsdfasdfsdfasdfassdfasdfs</value>
